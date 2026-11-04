@@ -1,96 +1,75 @@
-## Hi there 👋
-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,50:4A102D,100:9D174D&height=220&section=header&text=ERIGELA%20MALLIKARJUNA%20REDDY&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FILM%20EDITOR%20%7C%20PRODUCER%20%7C%20CREATIVE%20ARTIST&descAlignY=62&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:4A0000,100:990000&height=250&section=header&text=ERIGELA%20MALLIKARJUNA%20REDDY&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FILM%20EDITOR%20%7C%20PRODUCER&descSize=17&descAlignY=60" width="100%"/>
 
-# ERIGELA MALLIKARJUNA REDDY
+# 🎬 THE ART OF CINEMATIC STORYTELLING
 
-### Film Editor & Producer | Video Editor | Graphic Designer | 3D Blender Artist
+### FILM EDITOR • PRODUCER • VISUAL ARTIST
 
-*Crafting stories through visuals, creativity and cinematic experiences.*
+*Every Frame Has A Story. Every Cut Has An Emotion.*
 
-[Portfolio](https://erigelamallikarjunareddy.myportfolio.com/) · [Email](mailto:mrdigitalw@gmail.com)
+[MY PORTFOLIO](https://erigelamallikarjunareddy.myportfolio.com/) | [CONTACT ME](mailto:mrdigitalw@gmail.com)
 
 </div>
 
 ---
 
-## 🎬 ABOUT ME
+# 🎥 ABOUT THE FILMMAKER
 
-Hello! I'm **Erigela Mallikarjuna Reddy**, a Film Editor, Producer and Creative Artist with **4+ years of professional experience**.
+I'm **Erigela Mallikarjuna Reddy**, a Film Editor & Producer with 4+ years of professional experience.
 
-I specialize in cinematic storytelling, video editing, graphic design, visual effects and 3D creativity.
-
-- 🎥 Film Editing & Cinematic Storytelling
-- 🎨 Graphic Design & Poster Design
-- 🧊 3D Modeling & Blender
-- 🎞️ Video Production & Post Production
-- 🚀 Creative Visual Experiences
+My passion is transforming raw footage into cinematic experiences through editing, storytelling, sound design, color grading and visual creativity.
 
 ---
 
-## 🛠️ CREATIVE SOFTWARE
+# 🎞️ FEATURED FILM PROJECTS
 
-| Software | Expertise |
+### 01. DEAR DOCTOR
+**GENRE:** Psychological Love Thriller
+
+### 02. SRI PREMA SATYAM
+**GENRE:** Love / Career Drama
+
+### 03. EN ULAGAM
+**GENRE:** Cinematic Drama
+
+---
+
+# 🎬 MY CREATIVE STUDIO
+
+| SOFTWARE | SPECIALIZATION |
 |---|---|
-| Adobe Premiere Pro | Professional Video Editing |
-| Adobe After Effects | Motion Graphics & VFX |
-| Adobe Photoshop | Graphic & Poster Design |
-| DaVinci Resolve | Color Grading |
+| Premiere Pro | Film Editing |
+| After Effects | VFX & Motion Graphics |
+| DaVinci Resolve | Cinematic Color Grading |
+| Photoshop | Movie Posters & Graphic Design |
 | Blender | 3D Modeling & Animation |
 
 ---
 
-## 🎞️ SELECTED FILM PROJECTS
+# 🎥 EXPERIENCE & CREDITS
 
-### 01 — DEAR DOCTOR
-Psychological Love Thriller
-
-### 02 — SRI PREMA SATYAM
-Love or Career
-
-### 03 — EN ULAGAM
-A cinematic story with a watchman reveal.
+- 4+ Years Professional Experience
+- Film Editing & Production
+- Graphics Design & Poster Creation
+- Film School Faculty Experience
+- Cinematic Storytelling & Post Production
 
 ---
 
-## 📊 EXPERIENCE
-
-- 4+ Years of Professional Experience
-- 5+ Creative Editing & Design Software
-- Film School Teaching Experience
-- Multiple Film & Creative Projects
-
----
-
-## 🌐 CONNECT WITH ME
-
-- **Portfolio:** https://erigelamallikarjunareddy.myportfolio.com/
-- **Email:** mrdigitalw@gmail.com
-- **GitHub:** https://github.com/erigelamallikarjunareddy
-
----
+# 📽️ THE FINAL CUT
 
 <div align="center">
 
-### 🎬 EDIT • CREATE • INSPIRE
+**DIRECTED BY CREATIVITY**
 
-*Every frame tells a story.*
+**EDITED WITH PASSION**
+
+**POWERED BY STORYTELLING**
+
+---
+
+© ERIGELA MALLIKARJUNA REDDY
 
 </div>
-<!--
-**erigelamallikarjunareddy/erigelamallikarjunareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
