@@ -1,119 +1,80 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:260000,100:8B0000&height=220&section=header&text=ERIGELA%20MALLIKARJUNA%20REDDY&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=FILM%20EDITOR%20%7C%20PRODUCER&descAlignY=68&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,50:4A102D,100:9D174D&height=220&section=header&text=ERIGELA%20MALLIKARJUNA%20REDDY&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FILM%20EDITOR%20%7C%20PRODUCER%20%7C%20CREATIVE%20ARTIST&descAlignY=62&descSize=13" width="100%" />
 
-# THE ART OF THE FINAL CUT
+# ERIGELA MALLIKARJUNA REDDY
 
-### 🎬 FILM EDITOR • VISUAL STORYTELLER • PRODUCER
+### Film Editor & Producer | Video Editor | Graphic Designer | 3D Blender Artist
 
-*Every Frame Matters. Every Cut Creates Emotion.*
+*Crafting stories through visuals, creativity and cinematic experiences.*
 
-[PORTFOLIO](https://erigelamallikarjunareddy.myportfolio.com/) | [CONTACT](mailto:mrdigitalw@gmail.com)
+[Portfolio](https://erigelamallikarjunareddy.myportfolio.com/) · [Email](mailto:mrdigitalw@gmail.com)
 
 </div>
 
 ---
 
-# 🎞️ THE EDITING ROOM
+## 🎬 ABOUT ME
 
-### 01 — FILM REEL
+Hello! I'm **Erigela Mallikarjuna Reddy**, a Film Editor, Producer and Creative Artist with **4+ years of professional experience**.
 
-```text
-  ╔══════════════════════════════╗
-  ║  ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣  ║
-  ║  ▣       FILM          ▣  ║
-  ║  ▣       REEL          ▣  ║
-  ║  ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣  ║
-  ╚══════════════════════════════╝
-```
+I specialize in cinematic storytelling, video editing, graphic design, visual effects and 3D creativity.
 
-### 02 — THE CUTTING TIMELINE
-
-**SEQUENCE 01 — CINEMATIC EDIT**
-
-```text
-TIME      00:00    00:05    00:10    00:15
-
-V3       [TITLE]  [      TRANSITION      ]
-V2       [   B-ROLL   ][ CLOSE UP ][ CUT ]
-V1       [ INTRO ][ MAIN FOOTAGE ][ END ]
-         ─────────────────────────────────
-A2       [ SOUND DESIGN ][ SFX ][ IMPACT ]
-A1       [       ORIGINAL AUDIO           ]
-         ─────────────────────────────────
-                         ▲
-                    ✂ RAZOR CUT
-```
+- 🎥 Film Editing & Cinematic Storytelling
+- 🎨 Graphic Design & Poster Design
+- 🧊 3D Modeling & Blender
+- 🎞️ Video Production & Post Production
+- 🚀 Creative Visual Experiences
 
 ---
 
-# 🎥 MY FILMOGRAPHY
+## 🛠️ CREATIVE SOFTWARE
 
-| FILM | GENRE | ROLE |
-|---|---|---|
-| DEAR DOCTOR | Psychological Love Thriller | Creative Production |
-| SRI PREMA SATYAM | Love / Career | Creative Production |
-| EN ULAGAM | Cinematic Drama | Creative Production |
-
----
-
-# 🖥️ POST PRODUCTION STUDIO
-
-### EDITING
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
-
-### VISUAL EFFECTS
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
-
-### COLOR GRADING
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-
-### GRAPHIC DESIGN
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-
-### 3D ART
-![Blender](https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white)
+| Software | Expertise |
+|---|---|
+| Adobe Premiere Pro | Professional Video Editing |
+| Adobe After Effects | Motion Graphics & VFX |
+| Adobe Photoshop | Graphic & Poster Design |
+| DaVinci Resolve | Color Grading |
+| Blender | 3D Modeling & Animation |
 
 ---
 
-# 🎨 COLOR GRADING DEPARTMENT
+## 🎞️ SELECTED FILM PROJECTS
 
-```text
-SHADOWS       ██████████  CINEMATIC BLACK
-MIDTONES      ██████████  WARM CONTRAST
-HIGHLIGHTS    ██████████  FILM GLOW
-FINAL LOOK    ██████████  CINEMA RED
-```
+### 01 — DEAR DOCTOR
+Psychological Love Thriller
+
+### 02 — SRI PREMA SATYAM
+Love or Career
+
+### 03 — EN ULAGAM
+A cinematic story with a watchman reveal.
 
 ---
 
-# 🎬 ABOUT THE EDITOR
+## 📊 EXPERIENCE
 
-**ERIGELA MALLIKARJUNA REDDY**
+- 4+ Years of Professional Experience
+- 5+ Creative Editing & Design Software
+- Film School Teaching Experience
+- Multiple Film & Creative Projects
 
-Film Editor & Producer with 4+ years of professional experience.
+---
 
-Specialized in:
-- Cinematic Film Editing
-- Storytelling & Scene Construction
-- Sound Design & Audio Sync
-- Color Correction & Grading
-- Motion Graphics & Visual Effects
-- 3D Design & Creative Production
+## 🌐 CONNECT WITH ME
+
+- **Portfolio:** https://erigelamallikarjunareddy.myportfolio.com/
+- **Email:** mrdigitalw@gmail.com
+- **GitHub:** https://github.com/erigelamallikarjunareddy
 
 ---
 
 <div align="center">
 
-# THE FINAL CUT
+### 🎬 EDIT • CREATE • INSPIRE
 
-**RAW FOOTAGE → CREATIVE EDITING → CINEMATIC MASTERPIECE**
-
-### EDITED WITH PASSION. BUILT THROUGH STORYTELLING.
-
-[VISIT MY PORTFOLIO](https://erigelamallikarjunareddy.myportfolio.com/)
-
-© ERIGELA MALLIKARJUNA REDDY
+*Every frame tells a story.*
 
 </div>
