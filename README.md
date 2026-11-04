@@ -1,108 +1,119 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,40:180000,100:7B0000&height=260&section=header&text=ERIGELA%20MALLIKARJUNA%20REDDY&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=THE%20ART%20OF%20CINEMATIC%20STORYTELLING&descSize=14&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:260000,100:8B0000&height=220&section=header&text=ERIGELA%20MALLIKARJUNA%20REDDY&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=FILM%20EDITOR%20%7C%20PRODUCER&descAlignY=68&descSize=17" width="100%"/>
 
-<img src="https://img.shields.io/badge/NETFLIX_STYLE-CINEMATIC_STUDIO-BE0000?style=for-the-badge&logo=netflix&logoColor=white"/>
+# THE ART OF THE FINAL CUT
 
-# MALLIKARJUNA REDDY
+### 🎬 FILM EDITOR • VISUAL STORYTELLER • PRODUCER
 
-### FILM EDITOR  |  PRODUCER  |  VISUAL ARTIST
+*Every Frame Matters. Every Cut Creates Emotion.*
 
-**4+ YEARS OF CREATIVE EXPERIENCE**
-
-[🎬 PORTFOLIO](https://erigelamallikarjunareddy.myportfolio.com/) &nbsp; | &nbsp; [✉ CONTACT](mailto:mrdigitalw@gmail.com)
+[PORTFOLIO](https://erigelamallikarjunareddy.myportfolio.com/) | [CONTACT](mailto:mrdigitalw@gmail.com)
 
 </div>
 
 ---
 
-# 🔴 NOW STREAMING — MY CREATIVE WORLD
+# 🎞️ THE EDITING ROOM
 
-> Welcome to my cinematic universe.  
-> I turn raw footage into powerful visual stories.
+### 01 — FILM REEL
 
-## 🎞️ ORIGINAL FILM COLLECTION
+```text
+  ╔══════════════════════════════╗
+  ║  ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣  ║
+  ║  ▣       FILM          ▣  ║
+  ║  ▣       REEL          ▣  ║
+  ║  ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣  ║
+  ╚══════════════════════════════╝
+```
 
-<table>
-<tr>
-<td width="50%">
+### 02 — THE CUTTING TIMELINE
 
-<img src="https://placehold.co/600x350/160509/FFFFFF?text=DEAR+DOCTOR" width="100%"/>
+**SEQUENCE 01 — CINEMATIC EDIT**
 
-### DEAR DOCTOR
-**GENRE:** Psychological Love Thriller
+```text
+TIME      00:00    00:05    00:10    00:15
 
-</td>
-<td width="50%">
-
-<img src="https://placehold.co/600x350/170909/FFFFFF?text=SRI+PREMA+SATYAM" width="100%"/>
-
-### SRI PREMA SATYAM
-**GENRE:** Love / Career Drama
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<img src="https://placehold.co/1200x350/080808/FFFFFF?text=EN+ULAGAM" width="100%"/>
-
-### EN ULAGAM
-**GENRE:** Cinematic Drama
-
-</td>
-</tr>
-</table>
+V3       [TITLE]  [      TRANSITION      ]
+V2       [   B-ROLL   ][ CLOSE UP ][ CUT ]
+V1       [ INTRO ][ MAIN FOOTAGE ][ END ]
+         ─────────────────────────────────
+A2       [ SOUND DESIGN ][ SFX ][ IMPACT ]
+A1       [       ORIGINAL AUDIO           ]
+         ─────────────────────────────────
+                         ▲
+                    ✂ RAZOR CUT
+```
 
 ---
 
-# 🎬 THE CREATIVE STUDIO
+# 🎥 MY FILMOGRAPHY
 
-| DEPARTMENT | SOFTWARE | SPECIALIZATION |
+| FILM | GENRE | ROLE |
 |---|---|---|
-| EDITING | Premiere Pro | Film Editing |
-| VFX | After Effects | Motion Graphics |
-| COLOR | DaVinci Resolve | Color Grading |
-| DESIGN | Photoshop | Posters & Graphics |
-| 3D STUDIO | Blender | 3D Art & Animation |
+| DEAR DOCTOR | Psychological Love Thriller | Creative Production |
+| SRI PREMA SATYAM | Love / Career | Creative Production |
+| EN ULAGAM | Cinematic Drama | Creative Production |
 
 ---
 
-# ⭐ TOP CREATIVE CREDITS
+# 🖥️ POST PRODUCTION STUDIO
 
-- 4+ Years Professional Experience
-- Film Editing & Post Production
-- Graphic Design & Movie Posters
-- Film School Teaching Experience
-- Cinematic Storytelling
+### EDITING
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
+
+### VISUAL EFFECTS
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
+
+### COLOR GRADING
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+
+### GRAPHIC DESIGN
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+
+### 3D ART
+![Blender](https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-# 🎥 BEHIND THE SCENES
+# 🎨 COLOR GRADING DEPARTMENT
 
-**THE STORY DOESN'T END AT THE FINAL CUT.**
-
-My creative work combines editing, sound, visuals and emotion to create memorable cinematic experiences.
+```text
+SHADOWS       ██████████  CINEMATIC BLACK
+MIDTONES      ██████████  WARM CONTRAST
+HIGHLIGHTS    ██████████  FILM GLOW
+FINAL LOOK    ██████████  CINEMA RED
+```
 
 ---
 
-# 📡 CONNECT WITH THE STUDIO
+# 🎬 ABOUT THE EDITOR
+
+**ERIGELA MALLIKARJUNA REDDY**
+
+Film Editor & Producer with 4+ years of professional experience.
+
+Specialized in:
+- Cinematic Film Editing
+- Storytelling & Scene Construction
+- Sound Design & Audio Sync
+- Color Correction & Grading
+- Motion Graphics & Visual Effects
+- 3D Design & Creative Production
+
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-BA0000?style=for-the-badge)](https://erigelamallikarjunareddy.myportfolio.com/)
+# THE FINAL CUT
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-222222?style=for-the-badge&logo=gmail)](mailto:mrdigitalw@gmail.com)
+**RAW FOOTAGE → CREATIVE EDITING → CINEMATIC MASTERPIECE**
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE-WATCH-BA0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/)
+### EDITED WITH PASSION. BUILT THROUGH STORYTELLING.
 
----
+[VISIT MY PORTFOLIO](https://erigelamallikarjunareddy.myportfolio.com/)
 
-### A FILM BY ERIGELA MALLIKARJUNA REDDY
-
-**EDITED WITH PASSION. CREATED WITH VISION.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:4A0000,100:990000&height=110&section=footer" width="100%"/>
+© ERIGELA MALLIKARJUNA REDDY
 
 </div>
